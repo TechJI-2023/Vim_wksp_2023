@@ -1,6 +1,6 @@
 # Vim Workshop
 
- By 汪睿@Hydraallen，周赵嘉程，胡泓峥
+ By 汪睿@Hydraallen，周赵嘉程@zzjc1234，胡泓峥
 
  2023/4/2 19:00
 
@@ -712,13 +712,13 @@ Vim 原项目地址: [GitHub - vim/vim](https://link.zhihu.com/?target=https%3A/
 
 + help/man
 
-+ [Ranger](https://github.com/ranger/ranger) -> available for macOS and Linux
++ [Ranger](https://github.com/ranger/ranger) -> available for macOS and Linux （Now, I'm using [joshuto](https://github.com/kamiyaa/joshuto)）
 
 ​		Use vim key bindings to manage your files
 
 ​		You may refer to -> `Vim-Wksp/Usage-reference/ranger.md`
 
-​		(If you use windows with powershell and posh, you can use [lf](	))
+​		(If you use windows with powershell and posh, you can use [lf](https://github.com/gokcehan/lf))
 
 + Use vim key bindings when surffing the Internet
   + [vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) -> Google Chrome
@@ -734,3 +734,4 @@ You may refer to -> `Vim-Wksp/Usage-reference/vimium.md`
 ​		You may refer to ->`Vim-Wksp/Usage-reference/sioyek.md`
 
 + [lazygit](https://github.com/jesseduffield/lazygit)
++ [tmux](https://github.com/tmux/tmux) -> vim mode in tmux

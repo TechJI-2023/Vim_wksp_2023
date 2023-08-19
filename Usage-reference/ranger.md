@@ -1,4 +1,8 @@
 # ranger
+
+**Now, I'm using joshuto.**
+
+[图标参考](https://github.com/cdump/ranger-devicons2)
 `rc.conf`里编辑快捷键
 1. 搜索 `f`
 2. 终端进入当前文件夹 `shift+s`
@@ -18,3 +22,15 @@
 14. 搜索文件/文件夹 `/` （后`回车`or`Tab`）
 15. `V` 新建文件并进入vim编辑
 16. 重命名文件 `cw` 或者 `:rename` 或者 `i`或者 `a` 
+
+
+
+joshuto预览图片：
+
+[官网文档](https://github.com/kamiyaa/joshuto/blob/main/docs/image_previews/README.md)
+
+[安装Überzug++](https://github.com/jstkdng/ueberzugpp#install)
+
+[参考](https://www.bilibili.com/video/BV1SV4y1m7ba/?vd_source=adf107bfee3c616e2040d1253b6e242c)
+
+目前仅能在kitty中预览图片
