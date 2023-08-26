@@ -693,10 +693,13 @@ NeoVim 项目地址: [GitHub - neovim/neovim](https://link.zhihu.com/?target=htt
 
 Vim 原项目地址: [GitHub - vim/vim](https://link.zhihu.com/?target=https%3A//github.com/vim/vim)
 
-+ [supervim](https://github.com/Linfee/supervim)
 + [lunarvim](https://www.lunarvim.org/zh-Hans/)
 
 有非常详细的官方文档，可以参考`Vim-Wksp/vimrc-sample/lunarvim-config.lua`
+
++ [astronvim](https://astronvim.com/)
++ [supervim](https://github.com/Linfee/supervim)
++ Manuel's neovim -> `Vim-Workshop/vimrc-sample/manuel-init.vim`
 
 + emacs
 
