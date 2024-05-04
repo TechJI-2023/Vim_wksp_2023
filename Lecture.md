@@ -451,7 +451,7 @@ We strongly suggest you do this:
 
 ```
 cd ~/
-git clone git@github.com:zzjc1234/Vim-Wksp.git
+git clone git@github.com:TechJI-2023/Vim_wksp_2023.git
 mkdir .vim
 cd .vim
 cp ~/Vim-Wksp/vimrc-noplugin/vimrc ~/.vim/vimrc
@@ -592,7 +592,7 @@ We strongly suggest you do this in wksp:
 
 ```
 cd ~/
-git clone git@github.com:zzjc1234/Vim-Wksp.git
+git clone git@github.com:TechJI-2023/Vim_wksp_2023.git
 mkdir .vim
 cd .vim
 cp ~/Vim-Wksp/vimrc-withplugin/vimrc ~/.vim/vimrc
